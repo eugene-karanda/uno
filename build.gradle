@@ -1,7 +1,7 @@
-group "org.no-tokens"
-version "1.0-SNAPSHOT"
+group 'org.no-tokens'
+version '1.0-SNAPSHOT'
 
 wrapper {
-    gradleVersion = "6.2.2"
+    gradleVersion = '6.2.2'
     distributionType = Wrapper.DistributionType.ALL
 }
